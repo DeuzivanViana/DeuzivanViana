@@ -7,3 +7,13 @@
 #### My Another Github Accounts
 - https://bit.ly/3xDgyY9
 - https://bit.ly/3Qa0Xpn
+
+<div align="center">
+
+![Top Lan"guage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeuzivanLima&theme=github_dark)
+![Github Status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeuzivanLima&theme=github_dark)
+
+![Summary "Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeuzivanLima&theme=github_dark)
+
+</div>
+
